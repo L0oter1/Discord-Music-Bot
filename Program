@@ -209,4 +209,4 @@ async def _8ball(ctx, *, question):
                 "Very doubtful."]
   await ctx.send(f':8ball: {choice(responses)} :8ball:')
 
-client.run('ODQ3ODkzODIxNDU4NDgxMTgy.GDo3y1.WFiEZSGgwxGqoclZqy3SOXVIARBEcaykGDQXrM')
+client.run('')
